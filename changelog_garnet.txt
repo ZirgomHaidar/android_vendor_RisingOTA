@@ -43,3 +43,10 @@ Required firmware:
 - Update ViPER4Android FX-RE - UI v7.0, WSTxda driver fork
 - Update BCR to 1.71
 - address display flickering at low brightness
+
+============ 4 October 2024 (5.2.1 - EOL - GAPPS ONLY) ===============
+
+- Drop Smart Power-Off once more
+- Fix circle to search
+- Blurs are expensive!!! (boost GPU frequency when rendering blur)
+- Bring back dolby atmos
