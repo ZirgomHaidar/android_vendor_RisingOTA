@@ -4,6 +4,19 @@ Device: Poco F1 (beryllium)
 Device maintainer: Akshat
 
 ====================
+     10-17-2024
+====================
+- Added Dolby Atmos(AOSPA)
+- Dropped Viper4fx
+- Dropped pixel thermals(Fixed heating issue)
+- Fixed Circle to search on pixel launcher
+- Fixed smart power-off feature completely
+- Imported few more themed icons on pixel launcher
+- Play integrity passes fine now(Just update PI fix from settings)
+
+NOTE:- Dirty flash from previous build is possible
+
+====================
      09-18-2024
 ====================
 - HOTFIX Build
